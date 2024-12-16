@@ -1,0 +1,7 @@
+# ninja log v6
+39	1352	7560430308965763	build.ninja	c37071ad1d3aa3f
+54	2131	7560430311514080	CMakeFiles/CasoIntegrador.dir/main.cpp.obj	8cc8753c014150a8
+59	2368	7560430311558463	CMakeFiles/CasoIntegrador.dir/variant/variant.cpp.obj	b0ddd387267f77bb
+48	2529	7560430311448503	json11/CMakeFiles/json11.dir/json11.cpp.obj	6eb0a0bd7c8fd3de
+2529	2898	7560430336252950	json11/libjson11.a	d816a5ba6a450803
+2898	3414	7560430339945746	CasoIntegrador.exe	33f4adf581144c64

@@ -1,0 +1,14 @@
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/CMakeFiles/CasoIntegrador.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/json11/CMakeFiles/json11.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/json11/CMakeFiles/edit_cache.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/json11/CMakeFiles/rebuild_cache.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/json11/CMakeFiles/list_install_components.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/json11/CMakeFiles/install.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/json11/CMakeFiles/install/local.dir
+C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/CasoIntegrador/cmake-build-debug/json11/CMakeFiles/install/strip.dir
